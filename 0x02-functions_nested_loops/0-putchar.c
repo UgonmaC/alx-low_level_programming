@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int str[] = {'-', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
+	int str[] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 	int i, size;
 
 	size = sizeof(str) / sizeof(int);
