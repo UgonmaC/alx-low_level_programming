@@ -13,7 +13,7 @@ for (z = '0'; z <= '9'; z++)
 }
 for (z = 'a'; z <= 'f'; z++)
 {
-	putchar(z)
+	putchar(z);
 }
 	putchar('\n');
 	return (0);
